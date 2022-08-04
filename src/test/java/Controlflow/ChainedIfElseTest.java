@@ -26,7 +26,7 @@ public class ChainedIfElseTest {
 
     @Test
     public void crossBrowser() {
-        Automations.openBrowser("safari");
+        Automations.openBrowser("Chrome");
         Automations.visit("http://trello.com");
         Automations.sleep(6);
         Automations.closeBrowser();

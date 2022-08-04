@@ -39,25 +39,6 @@ public class VariableTest {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-    }
-
-
-
-    @Test
-    public void pracicetwo() {
-
     }
 
 

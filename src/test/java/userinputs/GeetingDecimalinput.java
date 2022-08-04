@@ -18,7 +18,7 @@ public class GeetingDecimalinput {
         System.out.println("You are desired ratio" + ratio);
 
         //4. Close the scanner
-        scan.close();;
+        scan.close();
 
     }
 }

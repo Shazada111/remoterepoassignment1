@@ -19,7 +19,7 @@ public class GeetingTextinputs {
 
         //4.Close  the scanner
 
-        scan.close();;
+        scan.close();
 
 
     }
