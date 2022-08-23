@@ -15,8 +15,8 @@ public class VariablaDemo {
       //Text "lets code!" string
       String words = "let's just code!";
 
-      // logic true, false  boolean
-      boolean isRainning = true;
+      // logic true, false boolean
+      boolean isRainning= true;
 
       System.out.println(age);
       System.out.println(pi);

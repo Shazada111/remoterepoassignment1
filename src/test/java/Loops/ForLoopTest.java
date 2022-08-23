@@ -28,7 +28,9 @@ public class ForLoopTest {
     @Test
     public void ForloopCountingUp() {
         // index
-        // 0 1 2 3 4 5 6  -----21
+
+        // 0 1 2 3 4 5 6  -----19, 20,21
+        // while the value of [index] <= 21
 
     }
 
@@ -67,4 +69,5 @@ public class ForLoopTest {
            }
        }
 }
+
 

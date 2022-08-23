@@ -8,13 +8,13 @@ public class ConditinalassignTest {
 
     @Test
     public void Demo() {
-        // Syntax  var = (conditin)? valuel : value2;
+        // Syntax  var = (condition)? value : value2;
         //
         // condition
         // -boolean data value: true,false
         // -relation operators: 10<1000
         // -boolean operators:  false&&true --> false
-        // -function         :  isNYRainningNow() --> false
+        // -function         :  isNYRainingNow() --> false
         // -boolean expression : (age <21 && isCitizen)  --->true or false
         int number = (true && false) ? 19 : 22;
         System.out.println(number);
@@ -30,11 +30,11 @@ public class ConditinalassignTest {
         int userAge = scan.nextInt();
 
         // Decision
-        String coutcome = (userAge >= 16) ? "yes, eligible to vote" : "No, not eligible!";
+        String countcome = (userAge >= 16) ? "yes, eligible to vote" : "No, not eligible!";
 
         // output
         System.out.println(".........   output..........");
-        System.out.println("Am I eligible to vote?> " + coutcome);
+        System.out.println("Am I eligible to vote?> " + countcome);
     }
 
 

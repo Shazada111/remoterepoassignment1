@@ -11,7 +11,7 @@ public class TypeConversionTest {
         double count = 0.0; // decimal number
         int num = 890; // whole number
 
-        // double <-- int  ok  impkicit type conversion
+        // double <-- int  ok  imlicit type conversion
         count = num;
         System.out.println((count));
 
